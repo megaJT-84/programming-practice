@@ -1,0 +1,4 @@
+	int[][] position = {{100, 90}, {250, 70}, {70, 180}, {200, 150}};
+	Color[] color = {Color.green, Color.red, Color.blue, Color.cyan};
+	int[] size = {60, 40, 90, 120};
+	
